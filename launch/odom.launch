@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+    <node name="kbot_odom_node" pkg="kbot_odom" type="kbot_odom_node" output="screen"/>
+
+</launch>
